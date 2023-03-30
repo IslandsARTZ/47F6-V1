@@ -13,4 +13,4 @@ then start
 
 you can put it in a usb stick and everywhere
 
-
+i got some scripts from https://techviral.net/create-a-virus/
