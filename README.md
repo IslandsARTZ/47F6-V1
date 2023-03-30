@@ -5,7 +5,7 @@ pls read
 
 all these scripts are for notepad
 
-hit save as and save and add a name then .bat 
+hit save as and add a name then .bat 
 
 after that set it for all files
 
