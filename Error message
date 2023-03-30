@@ -1,4 +1,14 @@
 x=msgbox("Error message here", 5+16, "Error title here")
 
+0 (OK Button)
+1 (OK and Cancel Buttons)
+2 (Abort, Retry and Ignore Buttons)
+3 (Yes, No, and Cancel Buttons)
+4 (Yes and No Buttons)
+5 (Retry and Cancel Button﻿s)
+16 (Critical Icon)
+32 (Help Icon)
+48 (Warning Icon)
+64 (Information Icon)
 
 
